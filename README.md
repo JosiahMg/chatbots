@@ -1,3 +1,3 @@
 # ChatBots
 
-A project for learning about NLP.
+A project for chatbots.
