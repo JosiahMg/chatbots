@@ -9,4 +9,3 @@ An English chatbot implementation using [ChatterBot](https://github.com/guntherc
 run "./start_web_server.sh"
 
 access web: 127.0.0.1:8080   or 127.0.0.1:8080/api/chat/<question>
-
